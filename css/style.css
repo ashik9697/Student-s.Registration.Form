@@ -1,0 +1,71 @@
+body{
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: "Poppins", sans-serif;
+}
+.wrapper{
+	width: 100%;
+	background: #fff;
+}
+.form{
+	width: 600px;
+	margin: 30px auto;
+	padding: 10px 40px 10px 40px;
+	border-radius: 20px;
+	border: 5px solid black;
+	background: lightyellow;
+}
+.title{
+	width: 100%;
+	text-align: center;
+}
+.form-group{
+	width: 100%;
+}
+.form-group label{
+	display: block;
+	font-size: 14px;
+	line-hieght: 24px;
+	text-transform: uppercase;
+	color: black;
+}
+.form-control{
+	width: 95%;
+	padding: 10px;
+	font-size: 14px;
+	color: #000;
+	border-radius: 5px;
+	border: 2px solid black;
+}
+.form-control:hover{
+	border: 2px solid blue;  
+	border-radius: 15px;
+	background: khaki;
+}
+.value{
+	background: khski;
+}
+.btn{
+	width: 100%;
+	text-align: center;
+}
+.btn{
+	margin: 5px auto;
+	padding: 12px 10px 12px;
+	font-size: 14px;
+	font-weight: 600;
+	text-transform: uppercase;
+	background: #fff;
+	color: #000;
+	border: 1px solid #000;
+	border-radius: 5px;
+}
+.btn:hover{
+	background: khaki;
+	color: #000;
+	border: 1px solid blue;
+	border-radius: 15px;
+}
